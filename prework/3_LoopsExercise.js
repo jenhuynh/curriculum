@@ -171,6 +171,6 @@ for (let outsideCounter = 0; outsideCounter <= 3; outsideCounter++) {
 // Congrats, you made it to the end!
 // Did you find this easy or hard? If you used references, which ones helped you?
 // Please answer in a comment below.
-//
+//I found the exercise medium to easy in difficulty once I got to research the structure of a do while loop and how it functions. To do that, I reviewed problems on FreeCodeCamp's Basic JavaScript course and looked at the "Iterate with JavaScript Do...While Loops." I also ran into difficulty on how to make a JavaScript break statement in exercise 7. It helped for me to learn more about a break statement through w3schools.com website where they explained and had an example of how to do it.
 
 // Email your file to us or commit your file to GitHub and email us a link.
